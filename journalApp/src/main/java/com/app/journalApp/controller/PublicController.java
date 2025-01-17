@@ -12,7 +12,7 @@ public class PublicController {
     @Autowired
     private UserService userService;
 
-    @GetMapping("/Health-check")
+    @GetMapping("/health-check")
     public String HealthCheck(){
         return "OK";
     }
