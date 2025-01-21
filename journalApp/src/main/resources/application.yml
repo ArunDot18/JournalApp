@@ -8,3 +8,8 @@ spring:
       uri: mongodb+srv://arunkargatia47:OJsiNhd8PSam6ur4@cluster0.vx2wd.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
       database: journaldb
       auto-index-creation: true
+
+
+weather:
+  api:
+    key: 8713f77dee31ab7646cbd6c24043cb9a
